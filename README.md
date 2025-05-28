@@ -1,3 +1,5 @@
+[![DOI:10.5281/zenodo.15535528](https://img.shields.io/badge/DOI-10.5281/zenodo.15535528-yellow.svg)](https://doi.org/10.5281/zenodo.15535528)
+
 # Overview
 
 The jupyter notebooks contain all the code required to reproduce the results. 
